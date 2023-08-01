@@ -12,9 +12,4 @@ public class NumberReverter {
          System.out.println(reverted);
     }
 
-    public static void main(String[] args) {
-        NumberReverter revertingNum = new NumberReverter();
-        int number = 489;
-        revertingNum.revert(number);
-    }
 }

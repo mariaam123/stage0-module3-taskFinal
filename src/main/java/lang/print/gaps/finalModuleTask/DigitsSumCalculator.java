@@ -13,9 +13,5 @@ public class DigitsSumCalculator {
 
     }
 
-    public static void main(String[] args) {
-        DigitsSumCalculator sumCalculator = new DigitsSumCalculator();
-        int number = 1234;
-        sumCalculator.calculateSum(number);
-    }
+
 }
